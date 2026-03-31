@@ -1,7 +1,6 @@
 # 立野 貴章 / Takaaki Tatsuno
 
 京都大学 理学部 地球物理学専攻 在学中。ソフトウェアエンジニアとして、Web アプリケーション開発と機械学習の実応用に取り組んでいます。
-最近恋人に振られて傷心中です。
 
 ## About
 
@@ -34,8 +33,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tkak-883&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkak-883&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats-opal-six-83.vercel.app/api?username=tkak-883&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-opal-six-83.vercel.app/api/top-langs/?username=tkak-883&layout=compact&theme=default)
 
 ## Contact
 
