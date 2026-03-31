@@ -39,4 +39,4 @@
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-taka.tatsuno%gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taka.tastuno@gmail.com)
+[![Email](https://img.shields.io/badge/Email-taka.tatsuno%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:taka.tatsuno@gmail.com)
